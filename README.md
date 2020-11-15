@@ -6,7 +6,7 @@ The dataset used was Paul Mooney's [Chest X-Ray dataset](https://www.kaggle.com/
 
 ## Results:
 
-On the Paul Mooney Pneumonia dataset, a simple 2 layer, 1 epoch CNN was applied. Testing accuracy achieved was 78.7%. We retrained the same model with images after applying various image processing techniques on the data, and the results were thus:
+On the Paul Mooney Pneumonia dataset, a simple 2 layer, 1 epoch CNN was applied. Testing accuracy achieved was 78.7%. The same model was retrained with images after applying various image processing techniques on the data, and the results were thus:
 
 | Image Processing Technique | Test Accuracy |
 | --- | --- |
